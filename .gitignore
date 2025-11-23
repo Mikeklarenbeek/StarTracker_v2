@@ -1,0 +1,15 @@
+# MicroPython / Raspberry Pi Pico
+*.mpy
+*.uf2
+__pycache__/
+*.pyc
+.micropico/
+
+# VS Code
+.vscode/
+
+# Thonny
+.thonny/
+
+# test code
+.tests/
