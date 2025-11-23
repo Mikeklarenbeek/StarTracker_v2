@@ -3,8 +3,7 @@
 *.uf2
 __pycache__/
 *.pyc
-.micropico/
-
+.micropico
 # VS Code
 .vscode/
 
